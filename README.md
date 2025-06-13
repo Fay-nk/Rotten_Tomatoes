@@ -107,9 +107,7 @@ In the fast-paced film and streaming industry, stakeholders often lack a central
 
 ## 🔗 View the Dashboard
 
-> 🟢 **Live Dashboard Link**: *\[Add Power BI Report URL here if published to web or embed in portfolio]*
-
-> 💼 **Portfolio Case Study Version**: *\[Link to blog or case study if applicable]*
+> 🟢 **Live Dashboard Link**: *\[(https://app.powerbi.com/groups/me/reports/fecf585b-2e87-41ed-aada-a9e4e84c658a/fecea90d7959416690e7?experience=power-bi)]*
 
 ---
 
