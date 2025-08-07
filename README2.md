@@ -33,7 +33,7 @@ Helps streaming platforms and content curators focus on genres that enhance perc
 
 ## 🧠 Dashboard Breakdown
 
-###🔹 1. Audience Rating vs. Tomatometer Rating by Genre (Line Chart)
+### 🔹 1. Audience Rating vs. Tomatometer Rating by Genre (Line Chart)
 **Purpose:**
 To visualize how audience sentiment aligns or contrasts with critic ratings across various genres.
 **Method:**
@@ -45,7 +45,7 @@ To visualize how audience sentiment aligns or contrasts with critic ratings acro
 - Some genres like Anime maintain strong audience support despite low critic scores, signaling fan-driven appeal.
 - Studios can safely invest in audience-favorite genres even without critical backing.
 
-###🔹 2. Movie Volume by Genre & Tomatometer Status (Stacked Bar Chart)
+### 🔹 2. Movie Volume by Genre & Tomatometer Status (Stacked Bar Chart)
 **Purpose:**
 To identify which genres consistently receive Certified Fresh, Fresh, or Rotten ratings.
 **Method:**
@@ -58,7 +58,7 @@ To identify which genres consistently receive Certified Fresh, Fresh, or Rotten 
 - Niche genres like Documentary and Art House have higher success rates in critical reception.
 - Romance consistently underperforms in critic ratings.
 
-###🔹 3. Top Genres by Average Tomatometer Rating (Bubble Chart)
+### 🔹 3. Top Genres by Average Tomatometer Rating (Bubble Chart)
 **Purpose:**
 To highlight the genres that receive highest average critic scores, helping inform investment strategies.
 **Method:**
