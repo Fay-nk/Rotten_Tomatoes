@@ -92,7 +92,7 @@ To highlight the genres that receive highest average critic scores, helping info
 
 ---
 
-##📌 How to Use This Dashboard
+## 📌 How to Use This Dashboard
 1. Filter by Genre to explore specific trends.
 2. Hover on Line Graph to view how audience ratings shift with critic ratings.
 3. Review Stacked Bar Chart for insight into quality consistency by genre.
